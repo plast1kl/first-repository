@@ -12,6 +12,7 @@ block
 ```
 
 **bolid text**
+
 _italic text_
 
 ~~mistaken text~~
