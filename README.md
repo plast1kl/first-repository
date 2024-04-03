@@ -39,4 +39,7 @@ ordered list:
    - 2. sub item 2
 
 
-
+| **header 1** | header 2 |
+| ------------ | -------- |
+| slot 1       | slot 2   |
+| slot 3       | slot 4   |
