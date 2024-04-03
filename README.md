@@ -29,14 +29,14 @@ horizontal line
 unordered list:
 - item 1
 - item 2
- - sub item 1 
- - sub item 2
+   - sub item 1 
+   - sub item 2
 
 ordered list:
-- 1 item 1
-- 2 item 2
- - 1 sub item 1
- - 2 sub item 2
+- 1. item 1
+- 2. item 2
+   - 1. sub item 1
+   - 2. sub item 2
 
 
 
