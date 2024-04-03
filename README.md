@@ -11,16 +11,16 @@
 block
 ```
 
-** bolid text **
+**bolid text**
 _italic text_
 
-~~ mistaken text ~~
+~~mistaken text~~
 
 sqare<sup>2</sup>
 
 An inline equation, **$**E=mc^2**$**. An equation block (below)
-**$**E=mc^2**$
-**$**E=mc^2**$
+$**E=mc^2**$
+$**E=mc^2**$
 
 [link](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
 
