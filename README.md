@@ -1,47 +1,14 @@
-[предисловие](1-%20некоторые%20действия%20с%20векторами/README.md)
-# First
-## Second
-### Third
-#### Fourth
-##### Fifth
-###### Sixth
 
-> V kovi4kah
-
-```
-block
-```
-
-**bolid text**
-
-_italic text_
-
-~~mistaken text~~
-
-sqare<sup>2</sup>
-
-An inline equation, **$**E=mc^2**$**. An equation block (below)
-$$E=mc^2$$
-$$E=mc^2$$
-
-[link](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
-
-horizontal line
-- - - 
-unordered list:
-- item 1
-- item 2
-   - sub item 1 
-   - sub item 2
-
-ordered list:
-- 1. item 1
-- 2. item 2
-   - 1. sub item 1
-   - 2. sub item 2
+| Номер главы | Название главы                                                                                               |
+| ----------- | ------------------------------------------------------------------------------------------------------------ |
+| 1           | [некоторые действия с векторами](1-некоторые%20действия%20с%20векторами/README.md)                           |
+| 2           | [кинематика материальной точки](2-кинематика%20материальной%20точки/README.md)                               |
+| 3           | [динамика материальной точки](3-динамика%20материальной%20точки/README.md)                                   |
+| 4           | [динамика механической системы](4-динамика%20механической%20системы/README.md)                               |
+| 5           | [работа и энергия](5-работа%20и%20энергия/README.md)                                                         |
+| 6           | [механика вращения твердого тела](6-механика%20вращения%20твердого%20тела/README.md)                         |
+| 7           | [неинерциальные системы отчета](7-неинерциальные%20системы%20отчета/README.md)                               |
+| 8           | [элементы специальной теории относительности](8-элементы%20специальной%20теории%20относительности/README.md) |
 
 
-| **header 1** | header 2 |
-| ------------ | -------- |
-| slot 1       | slot 2   |
-| slot 3       | slot 4   |
+
